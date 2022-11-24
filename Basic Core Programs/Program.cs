@@ -7,7 +7,7 @@ namespace Basic_Core_Problems
     {
         static void Main(string[] args)
         {
-            EvenOrOdd.EvenOdd();
+            VowelOrConsonant.charpexercise.Consonant();
             Console.ReadLine();
         }
     }
