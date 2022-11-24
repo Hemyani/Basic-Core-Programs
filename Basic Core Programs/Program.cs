@@ -7,7 +7,7 @@ namespace Basic_Core_Problems
     {
         static void Main(string[] args)
         {
-            LeapYear.Year();
+            PowerOf2.Power();
             Console.ReadLine();
         }
     }
