@@ -7,7 +7,7 @@ namespace Basic_Core_Problems
     {
         static void Main(string[] args)
         {
-            Factors.Number();
+            QuotientAndRemainder.Remainder();
             Console.ReadLine();
         }
     }
