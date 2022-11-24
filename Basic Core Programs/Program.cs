@@ -7,7 +7,7 @@ namespace Basic_Core_Problems
     {
         static void Main(string[] args)
         {
-            SwapNumbers.Number();
+            EvenOrOdd.EvenOdd();
             Console.ReadLine();
         }
     }
