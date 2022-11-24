@@ -7,7 +7,8 @@ namespace Basic_Core_Problems
     {
         static void Main(string[] args)
         {
-            VowelOrConsonant.charpexercise.Consonant();
+
+            MaximumNum.MaxNum();
             Console.ReadLine();
         }
     }
