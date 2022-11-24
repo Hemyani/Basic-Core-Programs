@@ -7,7 +7,7 @@ namespace Basic_Core_Problems
     {
         static void Main(string[] args)
         {
-            PowerOf2.Power();
+            HarmonicNumber.Number();
             Console.ReadLine();
         }
     }
