@@ -7,7 +7,7 @@ namespace Basic_Core_Problems
     {
         static void Main(string[] args)
         {
-            FlipCoin.Coin();
+            LeapYear.Year();
             Console.ReadLine();
         }
     }
